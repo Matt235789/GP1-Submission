@@ -1,0 +1,31 @@
+﻿  cGame.cpp
+c:\users\matthew\source\repos\pdfinal\pdfinal\cgame.cpp(63): warning C4018: '<': signed/unsigned mismatch
+c:\users\matthew\source\repos\pdfinal\pdfinal\cgame.cpp(71): warning C4018: '<': signed/unsigned mismatch
+c:\users\matthew\source\repos\pdfinal\pdfinal\cgame.cpp(75): warning C4018: '<': signed/unsigned mismatch
+c:\users\matthew\source\repos\pdfinal\pdfinal\cgame.cpp(88): warning C4018: '<': signed/unsigned mismatch
+c:\users\matthew\source\repos\pdfinal\pdfinal\cgame.cpp(100): warning C4018: '<': signed/unsigned mismatch
+c:\users\matthew\source\repos\pdfinal\pdfinal\cgame.cpp(170): warning C4018: '<': signed/unsigned mismatch
+c:\users\matthew\source\repos\pdfinal\pdfinal\cgame.cpp(175): warning C4018: '<': signed/unsigned mismatch
+  PDFinal.vcxproj -> C:\Users\Matthew\source\repos\PDFinal\Debug\PDFinal.exe
+  copying SDL2.dll to debug directory
+  C:\Users\Matthew\Desktop\SDL2\SDL2-2.0.4\lib\x86\SDL2.dll
+  1 File(s) copied
+  C:\Users\Matthew\Desktop\SDL2\SDL2_image-2.0.1\lib\x86\libjpeg-9.dll
+  C:\Users\Matthew\Desktop\SDL2\SDL2_image-2.0.1\lib\x86\libpng16-16.dll
+  C:\Users\Matthew\Desktop\SDL2\SDL2_image-2.0.1\lib\x86\libtiff-5.dll
+  C:\Users\Matthew\Desktop\SDL2\SDL2_image-2.0.1\lib\x86\libwebp-4.dll
+  C:\Users\Matthew\Desktop\SDL2\SDL2_image-2.0.1\lib\x86\SDL2_image.dll
+  C:\Users\Matthew\Desktop\SDL2\SDL2_image-2.0.1\lib\x86\zlib1.dll
+  6 File(s) copied
+  C:\Users\Matthew\Desktop\SDL2\SDL2_ttf-2.0.14\lib\x86\libfreetype-6.dll
+  C:\Users\Matthew\Desktop\SDL2\SDL2_ttf-2.0.14\lib\x86\SDL2_ttf.dll
+  C:\Users\Matthew\Desktop\SDL2\SDL2_ttf-2.0.14\lib\x86\zlib1.dll
+  3 File(s) copied
+  C:\Users\Matthew\Desktop\SDL2\SDL2_mixer-2.0.1\lib\x86\libFLAC-8.dll
+  C:\Users\Matthew\Desktop\SDL2\SDL2_mixer-2.0.1\lib\x86\libmodplug-1.dll
+  C:\Users\Matthew\Desktop\SDL2\SDL2_mixer-2.0.1\lib\x86\libogg-0.dll
+  C:\Users\Matthew\Desktop\SDL2\SDL2_mixer-2.0.1\lib\x86\libvorbis-0.dll
+  C:\Users\Matthew\Desktop\SDL2\SDL2_mixer-2.0.1\lib\x86\libvorbisfile-3.dll
+  C:\Users\Matthew\Desktop\SDL2\SDL2_mixer-2.0.1\lib\x86\SDL2_mixer.dll
+  C:\Users\Matthew\Desktop\SDL2\SDL2_mixer-2.0.1\lib\x86\smpeg2.dll
+  7 File(s) copied
